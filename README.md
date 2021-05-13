@@ -20,3 +20,9 @@
 -히스토그램 스트래칭(Histogram Stretching) (기본명암 대비 스트래칭, End-in 탐색)   
 -히스토그램 평활화(Histogram Equalized)   
 -히스토그램 명세화(Histogram Specification)   
+
+4. 화소영역 처리(회선 처리, 회선마스크)   
+-엠보싱(Embossing)   
+-블러링(Blurring)   
+-가우시안 필터링(Gaussian Filter)   
+-샤프닝(sharpening) 고주파 필터 샤프닝/ 저주파 필터 샤프닝   
